@@ -2,7 +2,7 @@
 
 variaveis q nao vao mudar devem ser escritas em caps lock (bom habito)
 
-muitas consiçoes no mesmo if(ruim)
+muitas condiçoes no mesmo if(ruim)
 .... <- contagem de complexidade(ruim)
 
 '''
